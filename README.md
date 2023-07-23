@@ -133,8 +133,19 @@
  </tr>
 </table>
 <br><br>
-
-
 </div>
-<p align="center" >
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fantasticAstro&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasticAstro&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
+
+
+<div align="center">
+  <a href="https://github.com/TalentedDeveloper19980105">
+  <img src="https://camo.githubusercontent.com/a605bd69b441484b8be1537b8e4d5a1e76c9208f66b381a830280ed0a57fbb91/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d596173694f6e46697265266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/TalentedDeveloper19980105">
+  <img src="https://camo.githubusercontent.com/d08a310c5e44c2a63ea876bea1bfff9a7dff08c9217c983b92d2028305fb0bee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d596173694f6e466972652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" />
+  </a>
+   <a href="https://github.com/TalentedDeveloper19980105">
+   <img src="https://camo.githubusercontent.com/1e7d89e53da684515c310e5ba27b9666ff75b27f39bd7ab9d79f0cd009e70e56/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d596173694f6e46697265267468656d653d746f6b796f6e69676874" />
+   </a>
+</div>
