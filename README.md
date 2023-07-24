@@ -14,6 +14,7 @@
 
 # Languages & Framework
 <div style="display: flex; align-items: flex-start; align: center">
+  <a href="https://github.com/TalentedDeveloper19980105">
 <table align="center">
   <tr>
     <td align="center"  width="96">
@@ -132,6 +133,7 @@
     </td>
  </tr>
 </table>
+  </a>
 <br><br>
 </div>
 
