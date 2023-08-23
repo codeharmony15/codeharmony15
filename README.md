@@ -162,7 +162,7 @@
 </div>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=BritnessDev&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=BritnessDev&column=8&theme=onedark"/>
 </p>
 
 <div align="center">
