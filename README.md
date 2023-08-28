@@ -17,11 +17,11 @@
     <a href="mailto:crazedromeo0305@gmail.com">
       <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://join.skype.com/PGCfZPfe3h7x">
+      <img src="https://img.shields.io/badge/Skype-red?style=for-the-badge&logo=skype&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://t.me/FutureDev21">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 </div>
