@@ -14,7 +14,7 @@
     </a>
   </div> -->
   <div id="badges">
-    <a href="crazedromeo0305@gmail.com">
+    <a href="mailto:crazedromeo0305@gmail.com">
       <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
