@@ -17,10 +17,10 @@
     <a href="mailto:crazedromeo0305@gmail.com">
       <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://join.skype.com/PGCfZPfe3h7x">
+    <a href="https://join.skype.com/PGCfZPfe3h7x" target="_blank">
       <img src="https://img.shields.io/badge/Skype-red?style=for-the-badge&logo=skype&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://t.me/FutureDev21">
+    <a href="https://t.me/FutureDev21" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
