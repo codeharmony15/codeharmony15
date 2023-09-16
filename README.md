@@ -15,7 +15,7 @@
   </div> -->
   <div id="badges">
     <a href="mailto:angelcute10041004@gmail.com">
-      <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <!--     <a href="https://linkedin.com/in/chi-ho-chung-134b28286" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
