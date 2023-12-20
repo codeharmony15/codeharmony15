@@ -117,7 +117,7 @@
       <br>jQuery
     </td>
     <td align="center" width="96">
-        <img src="assets/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
       <br>Kotlin
     </td>
   </tr>
