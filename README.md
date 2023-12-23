@@ -20,7 +20,7 @@
 <!--     <a href="https://linkedin.com/in/chi-ho-chung-134b28286" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a> -->
-    <a href="https://join.skype.com/PGCfZPfe3h7x" target="_blank">
+    <a href="https://join.skype.com/QJ4QH2lzTobV" target="_blank">
       <img src="https://img.shields.io/badge/Skype-red?style=for-the-badge&logo=skype&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://t.me/codeharmony15" target="_blank">
