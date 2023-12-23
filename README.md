@@ -14,7 +14,7 @@
     </a>
   </div> -->
   <div id="badges">
-    <a href="mailto:angelcute10041004@gmail.com">
+    <a href="mailto:codeharmony@outlook.com">
       <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <!--     <a href="https://linkedin.com/in/chi-ho-chung-134b28286" target="_blank">
@@ -23,7 +23,7 @@
     <a href="https://join.skype.com/PGCfZPfe3h7x" target="_blank">
       <img src="https://img.shields.io/badge/Skype-red?style=for-the-badge&logo=skype&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://t.me/FutureDev21" target="_blank">
+    <a href="https://t.me/codeharmony15" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
